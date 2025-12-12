@@ -1,0 +1,16 @@
+# Right camera intrinsics (cam_2)
+# Source: right_camera_calibration_20251210_134002.txt
+# RMS error: 0.102356 pixels
+image_width: 1280
+image_height: 720
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [1072.84, 0.0, 609.97,
+         0.0, 1073.65, 351.10,
+         0.0, 0.0, 1.0]
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [0.2042, -0.5335, -0.0118, -0.0034, 0.4260]
+distortion_model: plumb_bob

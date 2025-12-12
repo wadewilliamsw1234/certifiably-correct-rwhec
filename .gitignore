@@ -1,0 +1,21 @@
+# Data (too large for git)
+data/
+*.mp4
+*.avi
+
+# Output (reproducible)
+output/detections/
+output/julia_data/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store

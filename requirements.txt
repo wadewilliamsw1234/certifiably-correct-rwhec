@@ -1,0 +1,16 @@
+# Python dependencies for RWHEC calibration
+
+# Core
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# Computer vision
+opencv-python>=4.8.0
+pupil-apriltags>=1.0.4
+
+# Configuration
+pyyaml>=6.0
+
+# Visualization (optional, for figures)
+matplotlib>=3.7.0

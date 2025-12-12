@@ -1,0 +1,20 @@
+# Left camera intrinsics (cam_1)
+# Source: left_camera_calibration_20251210_133843.txt
+# RMS error: 0.097883 pixels
+
+image_width: 1280
+image_height: 720
+
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [1075.37, 0.0, 639.26,
+         0.0, 1075.47, 351.35,
+         0.0, 0.0, 1.0]
+
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [0.1616, -0.1705, -0.0135, -0.0115, -0.1929]
+
+distortion_model: plumb_bob
