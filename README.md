@@ -75,3 +75,6 @@ output/
 - Rosen et al. (2025) - Certifiable RWHEC algorithm
 - Barfoot (2024) - State Estimation for Robotics
 - Park & Martin (1994) - AX=XB on Euclidean group
+
+# Authors
+Wade Williams, Theo McArn, Steven Chen, Luke Jansen, Adrian Ramirez
